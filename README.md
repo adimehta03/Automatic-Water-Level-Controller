@@ -11,7 +11,9 @@
 </ul>
  
 ## SETUP:
-Excuse me for the bad setup.
+<b>Excuse me for the bad setup.</b>
+
+
 <img src="https://github.com/adimehta03/Automatic-Water-Level-Controller/blob/master/setup.jpeg" />
 <img src="https://github.com/adimehta03/Automatic-Water-Level-Controller/blob/master/waterlevel.jpeg" />
 
